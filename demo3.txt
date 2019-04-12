@@ -1,1 +1,6 @@
 hey, this is demo3
+<<<<<<< HEAD
+=======
+
+This is a change for dev1!
+>>>>>>> dev1 change
